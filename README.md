@@ -14,21 +14,11 @@
   <text x="360" y="90" fill="#c678dd" font-size="40">♫</text>
 </svg>
 
-## About Me
-
-안녕하세요! 저는 twocowsong입니다. 소프트웨어 개발과 음악을 좋아하는 개발자입니다.
-
-## My Projects
-
-- 🎵 CowChoir: 소들의 울음소리로 만든 합창 앱
-- 🖥️ MooCode: 소 울음소리 기반 프로그래밍 언어
-- 🌱 GrassTech: 소들을 위한 스마트 목초지 관리 시스템
 
 ## Skills
-
-- Languages: JavaScript, Python, Moo
-- Frameworks: React, Node.js, Express
-- Tools: Git, VS Code, Cow Bell IDE
+- Languages: Java
+- Frameworks: SpringBoot
+- Tools: intellij
 
 ## Get in Touch
 
