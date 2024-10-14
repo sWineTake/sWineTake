@@ -22,8 +22,6 @@
 
 ## Get in Touch
 
-- GitHub: [@twocowsong](https://github.com/twocowsong)
-- Twitter: [@twocowsong](https://twitter.com/twocowsong)
-- Blog: [twocowsong.dev](https://twocowsong.dev)
+# - GitHub: [twocowso](https://github.com/twocowsong)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about code and cows! 🐮💻
