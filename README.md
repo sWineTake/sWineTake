@@ -14,14 +14,3 @@
   <text x="360" y="90" fill="#c678dd" font-size="40">♫</text>
 </svg>
 
-
-## Skills
-- Languages: Java
-- Frameworks: SpringBoot
-- Tools: intellij
-
-## Get in Touch
-
-# - GitHub: [twocowso](https://github.com/twocowsong)
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about code and cows! 🐮💻
